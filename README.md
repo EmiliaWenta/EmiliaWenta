@@ -19,6 +19,7 @@ Here You can see the progress of my learning.
   * goit-js-hw-11 - my second individual project (JS)
   * goit-react-hw-08 - my third induvidual project (React)
   * goit-node-hw1-CLI - my thirst console application (node.js)
+  * nodejs-homework-02 - my fourth individual project (node.js)
       
 - Projects I have participated in names:
   * SGlinkau/project-Anemone
