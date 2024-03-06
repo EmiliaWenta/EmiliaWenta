@@ -17,7 +17,7 @@ Here You can see the progress of my learning.
 - My individual project names:
   * goit-html-css-hw8-finalProject - my first individual project (HTML and CSS)
   * goit-js-hw-11 - my second individual project (JS)
-  * goit-react-hw-08 - my third induvidual project (React)
+  * goit-react-hw-08-phonebook - my third induvidual project (React)
   * goit-node-hw1-CLI - my thirst console application (node.js)
   * nodejs-homework-02 - my fourth individual project (node.js)
       
