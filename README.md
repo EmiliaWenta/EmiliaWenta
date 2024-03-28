@@ -4,11 +4,11 @@
 I started my programming adventure a year ago.
 Here You can see the progress of my learning.
 
-- 💪 I’m currently learning React.
-- 📖 Actually I'm studying at Bootcamp GOIT
+- 💪 I’m currently learning React and node.js
+- 📖 I've just completed GoIT Fullstack course
 - 🔭 My dream is to become the best FULLSTACK DEVELOPER!
 - 💬 Feel free to ask me anything: [@EmiliaWenta](https://www.linkedin.com/in/emilia-wenta-455782294/)
-- 🌱 My skills at the moment
+- 🌱 My skills at the moment:
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,git,github,react,redux,nodejs,express)](https://skillicons.dev)
 
@@ -22,6 +22,7 @@ Here You can see the progress of my learning.
   * nodejs-homework-02 - my fourth individual project (node.js)
       
 - Projects I have participated in names:
+  * kapusta-team-project 
   * SGlinkau/project-Anemone
   * TomaszAndrzejPawlowski/Bookshelf-gr03
 
