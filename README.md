@@ -10,7 +10,7 @@ Here You can see the progress of my learning.
 - 💬 Feel free to ask me anything: [@EmiliaWenta](https://www.linkedin.com/in/emilia-wenta-455782294/)
 - 🌱 My skills at the moment:
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,git,github,react,redux,nodejs,express)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,git,github,react,typescript,redux,nodejs,express)](https://skillicons.dev)
 
 ##  How to read my repository? It's simple. Let's look: 
 
@@ -31,3 +31,5 @@ Here You can see the progress of my learning.
   * goit-js-hw-06/10v2 (JS)
   * goit-react-hw-01/07 (React)
   * nodejs-homework-02 (node.js)
+    
+- Lerning TypeScript names: typescript-challenges (typescript)
